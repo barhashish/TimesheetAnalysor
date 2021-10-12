@@ -1,0 +1,15 @@
+Project Code	Project Name	ProjectType
+O18185	Mumbai Coastal Road Project (South) Package IV	Operating
+O20291	Sitamma Sagar Multi Purpose Project	Operating
+O20318	LOWER KOPILI HEP	Operating
+O20315	Pakal Dul HEP	Operating
+O21455	RVNL 4 PACKAGE 4	Operating
+T21724	Chinki Boras Barrage 	TENDER
+T21679	Saundati PSP	TENDER
+T21868	SUNNI HEP	TENDER
+T21804	Ramban Banihal PKG 1 & 2	TENDER
+T21881	RATLE HEP (850 MW)	TENDER
+9999I	Miscellaneous	EDRC
+9999M	Departmental Activities	EDRC
+9999H	ISO works for EDRC	EDRC
+9999T	Training	EDRC

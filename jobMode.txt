@@ -1,0 +1,11 @@
+Jobmode
+Digitisation
+BOQ Calculation
+New Drawing
+Internal Revision
+Revised by Client
+New Document
+Departmental
+Plotting
+Transmittal
+Submission
